@@ -82,8 +82,6 @@
         <li><strong>Submit a Pull Request</strong>: Go to the original repository and submit a pull request.</li>
     </ol>
 
-<h2 id="license">License</h2>
-    <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 <h2 id="acknowledgments">Acknowledgments</h2>
     <p>Special thanks to <a href="https://github.com">GitHub</a> for providing a platform for collaboration and to various online resources for inspiration and documentation.</p>
