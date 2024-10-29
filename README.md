@@ -83,7 +83,7 @@
     </ol>
 
 <h2 id="license">Author</h2>
-    <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
+    <p>This project is written by Fitsum Tesfu. See the <a href="LICENSE">Author</a> file for details.</p>
 
 
 <h2 id="acknowledgments">Acknowledgments</h2>
