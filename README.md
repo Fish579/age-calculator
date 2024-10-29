@@ -12,7 +12,6 @@
             </ul>
         </li>
         <li><a href="#usage">Usage</a></li>
-        <li><a href="#example">Example</a></li>
         <li><a href="#contributing">Contributing</a></li>
         <li><a href="#license">License</a></li>
         <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -66,10 +65,6 @@
         <li><strong>View Your Age:</strong> The calculated age will be displayed in output boxes below the input fields, showing your age in years, months, and days.</li>
         <li><strong>Error Handling:</strong> If any of the input fields are left empty, an error message will appear, prompting you to fill in the required fields.</li>
     </ol>
-
-<h2 id="example">Example</h2>
-    <p>Here’s an example of the Age Calculator interface:</p>
-    <img src="age-calculator\design\desktop-preview.jpg" alt="Age Calculator Example">
 
 <h2 id="contributing">Contributing</h2>
     <p>If you would like to contribute to this project, please follow these steps:</p>
