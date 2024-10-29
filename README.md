@@ -83,7 +83,7 @@
     </ol>
 
 <h2 id="license">Author</h2>
-    <p>This project is written by Fitsum Tesfu. See the <a href="LICENSE">Author</a> file for details.</p>
+    <p>This project is written by Fitsum Tesfu.
 
 
 <h2 id="acknowledgments">Acknowledgments</h2>
