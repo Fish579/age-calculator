@@ -13,7 +13,7 @@
         </li>
         <li><a href="#usage">Usage</a></li>
         <li><a href="#contributing">Contributing</a></li>
-        <li><a href="#license">License</a></li>
+        <li><a href="#license">Author</a></li>
         <li><a href="#acknowledgments">Acknowledgments</a></li>
     </ol>
 <h2 id="introduction">Introduction</h2>
@@ -81,6 +81,9 @@
         </li>
         <li><strong>Submit a Pull Request</strong>: Go to the original repository and submit a pull request.</li>
     </ol>
+
+<h2 id="license">Author</h2>
+    <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 
 <h2 id="acknowledgments">Acknowledgments</h2>
