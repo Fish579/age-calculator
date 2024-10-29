@@ -69,7 +69,7 @@
 
 <h2 id="example">Example</h2>
     <p>Here’s an example of the Age Calculator interface:</p>
-    <img src="age-calculator\design\desdesktop-preview.jpg" alt="Age Calculator Example">
+    <img src="age-calculator\design\desktop-preview.jpg" alt="Age Calculator Example">
 
 <h2 id="contributing">Contributing</h2>
     <p>If you would like to contribute to this project, please follow these steps:</p>
