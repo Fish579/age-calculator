@@ -66,3 +66,29 @@
         <li><strong>View Your Age:</strong> The calculated age will be displayed in output boxes below the input fields, showing your age in years, months, and days.</li>
         <li><strong>Error Handling:</strong> If any of the input fields are left empty, an error message will appear, prompting you to fill in the required fields.</li>
     </ol>
+
+<h2 id="example">Example</h2>
+    <p>Here’s an example of the Age Calculator interface:</p>
+    <img src="https://via.placeholder.com/600x400.png?text=Age+Calculator+Example" alt="Age Calculator Example">
+
+<h2 id="contributing">Contributing</h2>
+    <p>If you would like to contribute to this project, please follow these steps:</p>
+    <ol>
+        <li><strong>Fork the Repository</strong>: Click on the "Fork" button on the repository page.</li>
+        <li><strong>Create a Branch</strong>: Create a new branch for your feature or bug fix.
+            <pre><code>git checkout -b feature/new-feature</code></pre>
+        </li>
+        <li><strong>Make Changes</strong>: Make your changes and commit them.
+            <pre><code>git commit -m "Add new feature"</code></pre>
+        </li>
+        <li><strong>Push to GitHub</strong>: Push your changes to your forked repository.
+            <pre><code>git push origin feature/new-feature</code></pre>
+        </li>
+        <li><strong>Submit a Pull Request</strong>: Go to the original repository and submit a pull request.</li>
+    </ol>
+
+<h2 id="license">License</h2>
+    <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
+
+<h2 id="acknowledgments">Acknowledgments</h2>
+    <p>Special thanks to <a href="https://github.com">GitHub</a> for providing a platform for collaboration and to various online resources for inspiration and documentation.</p>
